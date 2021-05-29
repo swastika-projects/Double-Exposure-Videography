@@ -30,6 +30,7 @@ b) Change the BGR values of the surrounding to [0,0,0] (to convert it to black)
 Finally, merged an image with each frame of the output of previous video wherever BGR values equaled [0,0,0]
 
 *Final Output ScreenShot :*
+
 ![double exposure](https://user-images.githubusercontent.com/83866176/120084022-9505d600-c0ea-11eb-9d4a-24faaf970e9a.png)
 
 
