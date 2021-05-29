@@ -9,6 +9,7 @@ Model used for Human Segmentation : YOLACT (refer : https://github.com/dbolya/yo
 FPS achieved : 18
 
 *Output ScreenShot of YOLACT model :*
+
 ![original frame](https://user-images.githubusercontent.com/83866176/120083785-cbdaec80-c0e8-11eb-95d7-cb2fdd776747.png)
 
 https://user-images.githubusercontent.com/83866176/120084825-047ec400-c0f1-11eb-9d9e-d84bd044a3ec.mp4
@@ -21,7 +22,8 @@ Next, used OPENCV Python library to get masked region from the previous output v
 a) Extract each frame from the video
 b) Change the BGR values of the surrounding to [0,0,0] (to convert it to black)
 
-*Output ScreenShot after extracting the Masked Region : *
+*Output ScreenShot after extracting the Masked Region :*
+
 ![masked frame](https://user-images.githubusercontent.com/83866176/120083943-ea8db300-c0e9-11eb-9c1d-5d3deb9a9b08.png)
 
 
