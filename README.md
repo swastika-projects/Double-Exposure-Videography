@@ -12,9 +12,6 @@ FPS achieved : 18
 
 ![original frame](https://user-images.githubusercontent.com/83866176/120083785-cbdaec80-c0e8-11eb-95d7-cb2fdd776747.png)
 
-https://user-images.githubusercontent.com/83866176/120084825-047ec400-c0f1-11eb-9d9e-d84bd044a3ec.mp4
-
-
 
 
 
