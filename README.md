@@ -1,4 +1,7 @@
 # Double-Exposure-Videography
+
+![samsung PRISM worklet](https://user-images.githubusercontent.com/83866176/120084996-4eb47500-c0f2-11eb-8d46-8a3959c0e499.png)
+
 This was a project assigned by Samsung PRISM which aimed at creating a double exposure video using Machine Learning/Deep Learning model for human segmentation followed by video processing to generate the required double exposure effect using Python Image Processing libraries. 
 Additional Requirement : Playback FPS >=30
 
